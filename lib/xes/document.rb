@@ -15,7 +15,7 @@ module XES
     # @return [Boolean]
     #   true if the element is formattable
     def formattable?
-      not(@log.nil?)
+      not(@log.nil?) and @log.formattable?
     end
 
     # Format as a XML document.
