@@ -9,7 +9,7 @@ module XES
 
     # @api private
     def message
-      "Error happened on formatting %s" % @element
+      "Error happened on formatting %s" % @element.inspect
     end
   end
 end
