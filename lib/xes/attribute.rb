@@ -100,7 +100,7 @@ module XES
       when "string"
         @value
       when "date"
-        @value.kind_of?(Time) ? @value.iso8601 : @value
+        @value.kind_of?(Time) ? @value.iso8601(3) : @value
       when "int"
         @value.kind_of?(Integer) ? @value : @value.to_i
       when "float"
