@@ -1,4 +1,4 @@
-Copyright (c) 2013 NaU Data Institute Inc. and its contributors.
+Copyright (c) 2013 NaU Data Institute Inc. and contributors.
 
 MIT License
 
