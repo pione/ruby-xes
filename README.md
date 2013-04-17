@@ -36,6 +36,6 @@ ruby-xes is free software distributed under MIT licence.
 
 ## Links
 
-* [XES](http://www.xes-standard.org/start)
 * [PIONE project homepage](http://pione.github.io/)
     * [repository on github](https://github.com/pione/pione)
+* [XES](http://www.xes-standard.org/start)
